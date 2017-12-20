@@ -1,3 +1,3 @@
 git add .
-git commit -m "2017.12.18"
-git push -u origin master
+git commit -m "2017.12.20"
+git push
